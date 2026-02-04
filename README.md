@@ -126,7 +126,7 @@ To avoid breaking LaTeX, any `\end{verbatim}` found inside code is safely rewrit
 Inside `BlackBirdOs.py`, edit:
 
 ```python
-PROJECT_ROOT = Path(r"Finance-APP")
+PROJECT_ROOT = Path(r"Project_Path")
 ```
 
 Set it to the folder of the project you want to dump.
